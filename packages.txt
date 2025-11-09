@@ -1,0 +1,7 @@
+# System dependencies for Streamlit Cloud
+libxml2-dev
+libxslt-dev
+libffi-dev
+libssl-dev
+gcc
+python3-dev
